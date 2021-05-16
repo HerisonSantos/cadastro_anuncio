@@ -1,0 +1,22 @@
+{
+  "name": "cadastro_anuncio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Herison do Nascimento dos Satos",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "Router": "^2.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.9",
+    "nodemon": "^2.0.7",
+    "yarn": "^1.22.10"
+  }
+}
